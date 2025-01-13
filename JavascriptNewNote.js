@@ -6,6 +6,7 @@ let type = age > 18 ? "Adult Ticket" : "Child Ticket";
 console.log(type);
 
 
+
 //name function
 
 function add(name){
